@@ -8,13 +8,21 @@ Teşekkür Ederim.
 İlk Projem Olan Space Shooter'da Öğrendiklerim:
 
 -Bir Bileşeni Hareket Ettirmek
+
 -Bir Bileşen Oluşturmak
+
 -Bileşeni Rastgele Hareketlerle Döndürmek
+
 -IEnumerator ile Bileşeni Belirli Değerler Arasında Rastgele Oluşturmak
+
 -Bileşen GameScene'den Çıkarsa Yok Etmek
+
 -İki Bileşen Etkileşime Girdiğinde Olasıkları Oluşturmak
+
 -Restart Ve Quit Button Oluşturmak
+
 -GameScore Oluşturmak
+
 -Music ve SFX oluşturmak
 
 
