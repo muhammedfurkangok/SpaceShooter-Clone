@@ -45,22 +45,18 @@ public class GameController : MonoBehaviour
         yield return new WaitForSeconds(startSpawn);
         while (true)
         {
-            
-            for (int i = 0; i < spawnCount; i++)//i += 1
+        /*    
+            for (int i = 0; i < spawnCount; i++)
             {
                 Vector3 spawnPosition = new Vector3(Random.Range(-3, 3), 0, 10);
                 Quaternion spawnRotation = Quaternion.identity;
 
                 Instantiate(hazard, spawnPosition, spawnRotation);
-
-                //Coroutine
-                //1.IEnumerator döndürmek zorundadır.
-                //2.En az 1 adet yield ifadesi bulunmak zorundadır.
-                //3.Coroutinler çağrılırken mutlaka StartCoroutine metoduyla çağrılmalıdır.
-
+                
                 yield return new WaitForSeconds(spawnWait);
             }
             yield return new WaitForSeconds(waveWait);
+        */ //Bunun yerine object pooling yaptım
             if(gameOver == true)
             {
                 restartText.text = "Press 'R' for Restart";
