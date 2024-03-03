@@ -1,11 +1,12 @@
 # Space-Shooter
-Genelde başlangıç olarak iyi görülen bir proje olduğundan ilk bu projeyi kopyalamak istedim.Oyuncu "MOUSE1" tuşuna basarak lazer gönderir ve yukarıdan gelen astreoidleri yok etmeye çalışır.Her yok edilen astreoid başına 10 puan kazanır eğer astreoide çarparsa da oyunu kaybeder.Oyuna yeniden başlamak için 'R',Çıkmak için ise 'Q' Tuşuna basar.
+Object poolingde alıştırma yapmak için ilk bu projeyi kopyalamak ve github'a atmak istedim.Oyuncu "MOUSE1" tuşuna basarak lazer gönderir ve yukarıdan gelen astreoidleri yok etmeye çalışır.Her yok edilen astreoid başına 10 puan kazanır eğer astreoide çarparsa da oyunu kaybeder.Oyuna yeniden başlamak için 'R',Çıkmak için ise 'Q' Tuşuna basar.
 
 Oynanış Videosu: https://drive.google.com/file/d/1rcyn_s7drPUbk7m2cr4N79BvWtbNkoqZ/view?usp=sharing
 
 
 
  Space Shooter'da Kullandıklarım:
+-Object Pooling
 
 -Bir Bileşeni Hareket Ettirmek
 
@@ -27,3 +28,4 @@ Oynanış Videosu: https://drive.google.com/file/d/1rcyn_s7drPUbk7m2cr4N79BvWtbN
 
 
 Teşekkür Ederim.
+Object Pooling:https://docs.unity3d.com/ScriptReference/Pool.ObjectPool_1.html
