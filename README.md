@@ -6,6 +6,7 @@ Oynanış Videosu: https://drive.google.com/file/d/1rcyn_s7drPUbk7m2cr4N79BvWtbN
 
 
  Space Shooter'da Kullandıklarım:
+
 -Object Pooling
 
 -Bir Bileşeni Hareket Ettirmek
@@ -28,4 +29,5 @@ Oynanış Videosu: https://drive.google.com/file/d/1rcyn_s7drPUbk7m2cr4N79BvWtbN
 
 
 Teşekkür Ederim.
+
 Object Pooling:https://docs.unity3d.com/ScriptReference/Pool.ObjectPool_1.html
